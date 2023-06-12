@@ -1,3 +1,3 @@
-# pro
-live links:
+# project
+# live links:
 https://salimreza12.github.io/project-2/
